@@ -56,9 +56,9 @@ Running the Detection Code independently
 # Further Enhancements
 
 # Video Demonstration
-https://www.loom.com/share/81663c4ab2684b14ac4adac4f243cd56
-https://www.loom.com/share/0705a9717f444843a6f9e510d2e1a250
-https://www.loom.com/share/aa7c4922a2644034938e23dc5b33d81a
+* https://www.loom.com/share/81663c4ab2684b14ac4adac4f243cd56
+* https://www.loom.com/share/0705a9717f444843a6f9e510d2e1a250
+* https://www.loom.com/share/aa7c4922a2644034938e23dc5b33d81a
 
 
 # Team
