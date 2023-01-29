@@ -46,9 +46,7 @@ Running the Detection Code independently
 
 # Snapshots of the Working Mobile Application
 
-![Screenshot (12)](https://user-images.githubusercontent.com/98468801/215315559-7cbd6c10-7bf6-4499-bd43-014dc66843da.png) Current Location and Bio
-![Screenshot (15)](https://user-images.githubusercontent.com/98468801/215315574-35cefadd-af41-4139-b4ce-686275b528f2.png) Drawer and Screens
-![Screenshot (11)](https://user-images.githubusercontent.com/98468801/215315581-a8ed1d8c-6f6e-47a6-8c15-5d0933e11e84.png) Travels of the User
+![mobile screens](https://user-images.githubusercontent.com/98468801/215316375-54f338a2-c00b-4a1d-aaf6-b7a756e54496.png)
 
 
 # Challenges we ran into and Acknowledgements
@@ -60,4 +58,6 @@ Running the Detection Code independently
 
 # Team
 ### Sujan Reddy
+https://github.com/sujan-reddy
 ### N.Dharshan
+https://github.com/sujan-reddy
