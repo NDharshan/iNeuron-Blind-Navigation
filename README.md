@@ -54,6 +54,8 @@ Running the Detection Code independently
 
 
 # Further Enhancements
+*	Integrating Face Recognition
+*	Including Map API for Navigation
 
 # Video Demonstration
 * https://www.loom.com/share/81663c4ab2684b14ac4adac4f243cd56
@@ -65,4 +67,4 @@ Running the Detection Code independently
 ### Sujan Reddy
 https://github.com/sujan-reddy
 ### N.Dharshan
-https://github.com/sujan-reddy
+https://github.com/NDharshan
